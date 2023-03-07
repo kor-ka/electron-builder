@@ -2,6 +2,7 @@
   "name": "@electron-builder/monorepo",
   "private": true,
   "license": "MIT",
+  "version": "24.0.0",
   "lint-staged": {
     "packages/**/*.ts": "eslint",
     "**/package.json": "pnpm lint-deps",
